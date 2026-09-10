@@ -1,4 +1,4 @@
-# 📊 Business Rules Validation & Reporting Analysis
+# 📊 Business Rules Validation & Reporting Analysi
 
 ## 📌 Overview
 
