@@ -1,4 +1,4 @@
-# 📊 Business Rules Validation & Reporting Analyst l
+# 📊 Business Rules Validation & Reporting Analyst
 
 ## 📌 Overview
 
