@@ -1,5 +1,4 @@
 # 📊 Business Rules Validation & Reporting Analyst 
-
 ## 📌 Overview
 
 This project demonstrates how Microsoft Excel and SQL can be used together to validate business rules, improve data quality, and generate meaningful business reports.
